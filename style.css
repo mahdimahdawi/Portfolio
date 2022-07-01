@@ -40,7 +40,7 @@ body {
 }
 
 .p1-title {
-  color: #172B4D;
+  color: #172b4d;
   font-size: 60px;
   line-height: 1;
   margin-bottom: 1.2rem;
@@ -51,7 +51,7 @@ body {
 }
 
 .p1-connect {
-  color: #7F8CFF;
+  color: #7f8cff;
   font-weight: 500px;
   font-size: 16px;
   text-decoration: none;
@@ -117,16 +117,17 @@ body {
   left: 345px;
   top: 370px;
 }
- .image-9 {
+
+.image-9 {
   width: 44px;
   height: 44px;
   left: 237px;
   top: 430px;
- }
+}
 
  .image-10 {
   width: 15px;
   height: 15px;
   left: 53px;
   top: 450px;
- }
+}
