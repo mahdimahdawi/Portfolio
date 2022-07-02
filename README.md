@@ -2,7 +2,7 @@
 
 # Portfolio
 
-> This project content the forst page of portfolio
+> This project content the forst page of portfolio and also the work and about sections are completed.
 
 
 ## Built With
