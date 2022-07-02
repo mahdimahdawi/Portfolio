@@ -54,6 +54,7 @@ ul {
 }
 
 /* Backgound images */
+
 /* Start of First page */
 
 .page-1 {
@@ -62,25 +63,28 @@ ul {
   height: 500px;
   border-bottom-left-radius: 100px 70px;
   overflow-x: hidden;
-  background-image: 
-  url(/image/g1.png),
-  url(/image/g2.png),
-  url(/image/ddd.png),
-  url(/image/c1.png),
-  url(/image/c2.png),
-  url(/image/g3.png),
-  url(/image/c3.png),
-  url(/image/g4.png);
+  background-image:
+
+    url(/image/g1.png),
+    url(/image/g2.png),
+    url(/image/ddd.png),
+    url(/image/c1.png),
+    url(/image/c2.png),
+    url(/image/g3.png),
+    url(/image/c3.png),
+    url(/image/g4.png);
   background-repeat: no-repeat;
-  background-position: left -30px top -20px,
-  left 150px top 30px,
-  top -10px right -50px,
-  left 250px top 0px,
-  left 300px top 150px,
-  left 300px top 360px,
-  left 80px top 430px,
-  left 270px top 450px;
-  background-size: auto,auto , 125px 125px, auto,auto, 50px 50px ;
+  background-position:
+
+    left -30px top -20px,
+    left 150px top 30px,
+    top -10px right -50px,
+    left 250px top 0px,
+    left 300px top 150px,
+    left 300px top 360px,
+    left 80px top 430px,
+    left 270px top 450px;
+  background-size: auto, auto , 125px 125px, auto, auto, 50px 50px;
 }
 
 .p1-title {
@@ -126,6 +130,7 @@ ul {
 }
   
 /* End of First page */
+
 /* Start of Work page */
 
 .work-section {
@@ -182,7 +187,7 @@ ul {
 
 .web-lang {
   color: #6070ff;
-  background: #EBEBFF;
+  background: #ebebff;
   border-radius: 8px;
   font-size: 11px;
   font-weight: 500;
@@ -203,6 +208,7 @@ ul {
 }
 
 /* End of work Page */
+
 /* start of About page */
 
 .about-page {
@@ -231,7 +237,7 @@ ul {
   line-height: 52px;
   display: flex;
   align-items: center;
-  color: #172B4D;
+  color: #172b4d;
 }
 
 .about-myself-text {
@@ -253,7 +259,7 @@ ul {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  color: #7F8CFF;
+  color: #7f8cff;
   text-transform: uppercase;
 }
 
@@ -301,7 +307,7 @@ ul {
   font-size: 20px;
   margin-left: -50px;
   line-height: 24px;
-  color: #000000;
+  color: #000;
 }
 
 .line {
@@ -323,7 +329,6 @@ ul {
 
 .skill-name {
   position: relative;
-  top: 20px;
   left: 15px;
   right: 12px;
   top: calc(50% - 24px/2 - 12px);
